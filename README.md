@@ -42,3 +42,12 @@ This repository is structured into specialized directories that separate the emp
 │   └── rbw_box_phantom_space.pdf    # Complementary research on theoretical/spatial boundaries
 └── README.md                        # System documentation and project overview
 ```
+
+---
+
+### Directory Breakdown
+
+* **`analytics/`**: Contains the Business Intelligence implementation. Here lies the Power BI file (`.pbix`) that processes the survey data, designs the dimensional model (star schema), and displays the interactive dashboards measuring public and professional perception.
+* **`data/`**: Dedicated exclusively to storing the quantitative data source. It holds the finalized, cleaned, and standardized dataset resulting from the generative architecture socio-technical survey.
+* **`database/`**: Houses the structural backend proposal. It contains the SQL scripts and relational schema designed to support the pipeline of the proposed Algorithmic Traceability System.
+* **`documents/`**: Holds the core academic and theoretical foundations of the research, including the main Master's Thesis documentation and specific papers regarding spatial/epistemological boundaries (such as Espacio Fantasma).
