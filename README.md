@@ -58,3 +58,19 @@ This repository is structured into specialized directories that separate the emp
 * **Analytics & BI:** Power BI (Modelado relacional, diseño de esquemas y creación de dashboard interactivo).
 * **Database Design:** SQL (Diseño del esquema lógico y relacional para el sistema de trazabilidad algorítmica).
 * **Data Engineering & Prep:** Microsoft Excel (Mapeo de strings, estandarización de variables y limpieza de respuestas abiertas).
+
+---
+
+## Future Work & Roadmap
+
+- [ ] **Automated Data Pipeline:** Implement a Python ETL pipeline using Pandas to automate the cleaning process directly from the survey API.
+- [ ] **Database Deployment:** Migrate the `.sql` schema into a live PostgreSQL/MySQL instance to test real-time data ingestion.
+- [ ] **Traceability API:** Develop a lightweight FastAPI backend to log design provenance metrics into the database.
+
+---
+
+## Support & Feedback
+
+If you have any questions, suggestions, or want to discuss generative architecture and data systems, feel free to reach out or connect on jcristobalfdez@gmail.com. 
+
+If you find this project useful, consider leaving a ⭐ to support the research!
