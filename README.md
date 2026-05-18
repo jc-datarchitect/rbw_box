@@ -3,7 +3,7 @@
 
   <h1>RBW BOX: Algorithmic Traceability System for Generative Architecture Environments</h1>
 
-  <p><i>"Structuring data, tracing algorithmic authorship, and redefining spatial boundaries"</i></p>
+  <p><i>"Investigating the social boundaries of generative architecture through empirical data and algorithmic traceability"</i></p>
   
   <br>
 
