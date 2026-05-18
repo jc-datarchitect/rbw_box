@@ -38,7 +38,7 @@ This repository is structured into specialized directories that separate the emp
 ├── database/
 │   └── rbw_box_schema.sql           # Relational schema for the Algorithmic Traceability System
 ├── documents/
-│   ├── rbw_box_document.pdf         # Main Master's Thesis document
+│   ├── rbw_box_investigation.pdf         # Main Master's Thesis document
 │   └── rbw_box_phantom_space.pdf    # Complementary research on theoretical/spatial boundaries
 └── README.md                        # System documentation and project overview
 ```
