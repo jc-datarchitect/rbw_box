@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7c091c2f-dcb9-4249-b9b9-d1a3c6d2f828" width="100%" alt="RBW BOX Cover">
+  <img src="https://github.com/user-attachments/assets/7c091c2f-dcb9-4249-b9b9-d1a3c6d2f828" width="80%" alt="RBW BOX Cover">
 
   <h1>RBW BOX: Algorithmic Traceability System for Generative Architecture Environments</h1>
 
