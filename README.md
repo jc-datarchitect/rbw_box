@@ -7,7 +7,6 @@
   
   <br>
 
-  [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
   [![SQL](https://img.shields.io/badge/Database-SQL-CC292B?style=flat&logo=microsoft-sql-server&logoColor=white)](#)
   [![PowerBI](https://img.shields.io/badge/Analytics-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat)](https://opensource.org/licenses/MIT)
@@ -51,3 +50,11 @@ This repository is structured into specialized directories that separate the emp
 * **`data/`**: Dedicated exclusively to storing the quantitative data source. It holds the finalized, cleaned, and standardized dataset resulting from the generative architecture socio-technical survey.
 * **`database/`**: Houses the structural backend proposal. It contains the SQL scripts and relational schema designed to support the pipeline of the proposed Algorithmic Traceability System.
 * **`documents/`**: Holds the core academic and theoretical foundations of the research, featuring my main investigation documentation developed during the Master's program alongside my complementary essay regarding speculative and epistemological boundaries, titled *The Phantom Space Syndrome*.
+
+---
+
+## Tech Stack
+
+* **Analytics & BI:** Power BI (Modelado relacional, diseño de esquemas y creación de dashboard interactivo).
+* **Database Design:** SQL (Diseño del esquema lógico y relacional para el sistema de trazabilidad algorítmica).
+* **Data Engineering & Prep:** Microsoft Excel (Mapeo de strings, estandarización de variables y limpieza de respuestas abiertas).
