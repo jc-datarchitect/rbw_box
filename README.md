@@ -25,3 +25,20 @@ To capture the complexity of this paradigm shift, the project adopts a **multifa
 * **The Structural Dimension:** To answer the challenges of algorithmic authorship and theoretical tensions identified in the data, the project prototypes an **Algorithmic Traceability System**. This framework is engineered for generative architecture environments, ensuring data transparency, tracking AI-human design provenance, and establishing a structured, auditable pipeline for generative outputs.
 
 ---
+
+## Repository Structure
+
+This repository is structured into specialized directories that separate the empirical data, computational architecture, business intelligence dashboards, and academic documentation:
+
+```text
+├── analytics/
+│   └── rbw_box_dashboard.pbix       # Power BI Dashboard containing the analytical model
+├── data/
+│   └── rbw_box_raw_data.xlsx        # Cleaned and standardized survey data (raw inputs)
+├── database/
+│   └── rbw_box_schema.sql           # Relational schema for the Algorithmic Traceability System
+├── documents/
+│   ├── rbw_box_document.pdf         # Main Master's Thesis document
+│   └── rbw_box_phantom_space.pdf    # Complementary research on theoretical/spatial boundaries
+└── README.md                        # System documentation and project overview
+```
