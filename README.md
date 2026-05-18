@@ -44,7 +44,7 @@ This repository is structured into specialized directories that separate the emp
 
 ---
 
-### Directory Breakdown
+## Directory Breakdown
 
 * **`analytics/`**: Contains the Business Intelligence implementation. Here lies the Power BI file (`.pbix`) that processes the survey data, designs the dimensional model (star schema), and displays the interactive dashboards measuring public and professional perception.
 * **`data/`**: Dedicated exclusively to storing the quantitative data source. It holds the finalized, cleaned, and standardized dataset resulting from the generative architecture socio-technical survey.
