@@ -58,7 +58,7 @@ This repository is structured into specialized directories that separate the emp
 
 * **Analytics & BI:** Power BI (Modelado relacional, diseño de esquemas y creación de dashboard interactivo).
 * **Database Design:** SQL (Diseño del esquema lógico y relacional para el sistema de trazabilidad algorítmica).
-* **Data Engineering & Prep:** Microsoft Excel (Mapeo de strings, estandarización de variables y limpieza de respuestas abiertas).
+* **Data Engineering & Prep:** Python (Pandas & NumPy for data manipulation and cleaning) & Microsoft Excel (String mapping and raw variable standardization).
 
 ---
 
