@@ -11,6 +11,7 @@
   [![SQL](https://img.shields.io/badge/Database-SQL-CC292B?style=flat&logo=microsoft-sql-server&logoColor=white)](#)
   [![PowerBI](https://img.shields.io/badge/Analytics-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat)](https://opensource.org/licenses/MIT)
+  [![GitHub stars](https://img.shields.io/github/stars/jc-datarchitect/TRIP-U?style=social)](https://github.com/jc-datarchitect/TRIP-U/stargazers)
 </div>
 
 ---
