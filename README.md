@@ -29,30 +29,6 @@ To capture the complexity of this paradigm shift, the project adopts a **multifa
 
 ## Repository Structure
 
-## Repository Structure
-
-This repository is structured into specialized directories that separate the empirical data, computational architecture, business intelligence dashboards, and academic documentation:
-
-<pre>
-├── <a href="analytics/">analytics/</a>
-│   └── <a href="analytics/rbw_box_dashboard.pbix">rbw_box_dashboard.pbix</a>          # Power BI Dashboard
-├── <a href="data/">data/</a>
-│   ├── <a href="data/rbw_box_codebook.xlsx">rbw_box_codebook.xlsx</a>                  # Data dictionary
-│   └── <a href="data/rbw_box_survey_responses.xlsx">rbw_box_survey_responses.xlsx</a>  # Cleaned survey data
-├── <a href="database/">database/</a>
-│   └── <a href="database/rbw_box_schema.sql">rbw_box_schema.sql</a>                    # Relational schema
-├── <a href="documents/">documents/</a>
-│   ├── <a href="documents/rbw_box_investigation.pdf">rbw_box_investigation.pdf</a>      # Main Master's Thesis
-│   └── <a href="documents/rbw_box_phantom_space.pdf">rbw_box_phantom_space.pdf</a>      # Complementary research
-└── README.md                                                               # System documentation
-</pre>
-
-
-
-
-
-
-
 This repository is structured into specialized directories that separate the empirical data, computational architecture, business intelligence dashboards, and academic documentation:
 
 ```text
