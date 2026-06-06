@@ -32,17 +32,18 @@ To capture the complexity of this paradigm shift, the project adopts a **multifa
 This repository is structured into specialized directories that separate the empirical data, computational architecture, business intelligence dashboards, and academic documentation:
 
 ```text
+├── LICENSE                             # License information
+├── README.md                           # System documentation and project overview
 ├── analytics/
-│   └── rbw_box_dashboard.pbix         # Power BI Dashboard containing the analytical model
+│   └── rbw_box_dashboard.pbix          # Power BI Dashboard containing the analytical model
 ├── data/
-│   ├── rbw_box_codebook.xlsx          # Data dictionary mapping clean variable IDs to original survey questions
-│   └── rbw_box_survey_responses.xlsx  # Cleaned and standardized survey data (raw inputs)
+│   ├── rbw_box_codebook.xlsx           # Data dictionary mapping clean variable IDs to original survey questions
+│   └── rbw_box_survey_responses.xlsx   # Cleaned and standardized survey data (raw inputs)
 ├── database/
-│   └── rbw_box_schema.sql             # Relational schema for the Algorithmic Traceability System
-├── documents/
-│   ├── rbw_box_investigation.pdf      # Main Master's Thesis document
-│   └── rbw_box_phantom_space.pdf      # Complementary research on theoretical/spatial boundaries
-└── README.md                          # System documentation and project overview
+│   └── rbw_box_schema.sql              # Relational schema for the Algorithmic Traceability System
+└── documents/
+    ├── rbw_box_investigation.pdf       # Main Master's Thesis document
+    └── rbw_box_phantom_space.pdf       # Complementary research on theoretical/spatial boundaries
 ```
 
 ---
