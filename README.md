@@ -32,6 +32,7 @@ To capture the complexity of this paradigm shift, the project adopts a **multifa
 This repository is structured into specialized directories that separate the empirical data, computational architecture, business intelligence dashboards, and academic documentation:
 
 ```text
+rbw_box/
 ├── LICENSE                             # License information
 ├── README.md                           # System documentation and project overview
 ├── analytics/
